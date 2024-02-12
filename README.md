@@ -1,0 +1,1 @@
+readme dosyaysi olusturuldu
